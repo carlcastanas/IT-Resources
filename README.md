@@ -31,6 +31,10 @@ Welcome to a curated list of free programming tools and resources to help you ex
   - Description: JavaScript is the language of the web, used for building interactive and dynamic web applications.
   - [JavaScript.info](https://javascript.info/)
 
+- **Rust**
+  - Description: Rust is a powerful language that focuses on performance and memory-safety used for web development, CLI tools, embedded systems, and operating systems.
+  - [Learn Rust - Rust Programming Language](https://www.rust-lang.org/learn/)
+
 ## Web Development
 
 - **HTML & CSS**
