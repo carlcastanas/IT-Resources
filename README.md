@@ -201,4 +201,9 @@ Don't hesitate to reach out, share your projects, or explore potential collabora
   - Description: Solve coding challenges and compete in coding competitions.
   - [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript/)
 
+- **Project Euler**
+  - Description: Solve math problems and improve your problem-solving skills.
+  - [Project Euler](projecteuler.net/) 
+
+
 These free resources provide a comprehensive foundation for various programming disciplines. Explore, learn, and advance your skills on your
