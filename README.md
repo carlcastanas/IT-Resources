@@ -80,17 +80,6 @@ Welcome to a curated list of free programming tools and resources to help you ex
   - Description: Version control is crucial for collaboration. Learn Git and GitHub.
   - [GitHub Learning Lab](https://lab.github.com/)
 
-## Job Opportunities
-
-Are you wondering what career paths you can pursue after learning these skills? Here are some potential job opportunities:
-
-1. **Software Developer**: Create software applications and solutions.
-2. **Data Analyst/Scientist**: Analyze and interpret data to make informed decisions.
-3. **Web Developer**: Build websites and web applications.
-4. **Mobile App Developer**: Develop mobile applications for Android or iOS.
-5. **Cybersecurity Analyst**: Protect organizations from cyber threats.
-6. **DevOps Engineer**: Streamline software development and deployment processes.
-
 ## Algorithms and Data Structures
 
 - **Coursera - Algorithms Specialization**
@@ -150,6 +139,28 @@ Are you wondering what career paths you can pursue after learning these skills? 
 - **Google Cloud Training**
   - Description: Google Cloud provides free courses and labs to learn cloud technologies.
   - [Google Cloud Training](https://cloud.google.com/training/)
+
+## Job Opportunities and Salary Ranges
+
+Here are some potential job opportunities and their average salary ranges:
+
+| Job Role                   | Average Salary Range (USD)   |
+| -------------------------- | ---------------------------- |
+| Software Developer         | $60,000 - $120,000+          |
+| Data Analyst/Scientist     | $50,000 - $120,000+          |
+| Web Developer              | $50,000 - $110,000+          |
+| Mobile App Developer       | $60,000 - $130,000+          |
+| Cybersecurity Analyst      | $60,000 - $120,000+          |
+| DevOps Engineer            | $70,000 - $140,000+          |
+| Database Administrator     | $60,000 - $120,000+          |
+| UI/UX Designer             | $50,000 - $110,000+          |
+| Machine Learning Engineer  | $80,000 - $150,000+          |
+| Cloud Solutions Architect  | $90,000 - $160,000+          |
+| Game Developer             | $60,000 - $120,000+          |
+| IT Project Manager         | $70,000 - $140,000+          |
+| Network Engineer           | $60,000 - $120,000+          |
+
+Please note that these salary ranges are approximate and can vary significantly based on factors such as location, years of experience, education, and the specific company you work for. It's essential to research and consider these factors when evaluating potential job opportunities.
 
 ## Open Source Contributions
 
